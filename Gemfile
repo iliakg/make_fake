@@ -1,14 +1,14 @@
-source 'http://rubygems.org'
+source 'https://rubygems.org'
 
-gem 'rails', '4.2.1'
+gem 'rails', '4.2.5'
 gem 'puma'
 # gem 'pg', '~> 0.18.1'
 
 gem 'sass-rails'
-gem 'uglifier', '>= 1.3.0'
-gem 'coffee-rails', '~> 4.1.0'
+gem 'uglifier'
+gem 'coffee-rails'
 gem 'jquery-rails'
-gem 'jbuilder', '~> 2.0'
+gem 'jbuilder'
 
 
 group :development, :test do
